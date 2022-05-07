@@ -16,7 +16,7 @@ body {
 .top {
     display: flex;
     justify-content: space-around;
-    /* color: white; */
+    color: lightblue;
 }
 
 .JS, .GH {
@@ -100,6 +100,11 @@ main {
 }
 
 #a_tag {
+    text-decoration: none;
+    color: lightblue;
+}
+
+#ghrep {
     text-decoration: none;
     color: lightblue;
 }
